@@ -1,4 +1,7 @@
 # Playwright + TypeScript — Page Object Model Example
+Update Readme from your_github_actio
+![Playwright Tests](https://github.com/alexusadaysinfo/Playwright-POM-TS/actions/workflows/playwright.yml/badge.svg)
+
 
 update Readme from my_github_actions
 
